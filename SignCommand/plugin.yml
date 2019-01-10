@@ -1,5 +1,5 @@
 ﻿name: SignCommand
 author: tream
 main: tream\SignCommand
-api: [2.0.0, 3.0.0-ALPHA3]
+api: 4.0.0
 version: 1
